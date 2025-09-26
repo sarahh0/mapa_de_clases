@@ -1,0 +1,14 @@
+C:\Users\Kent\source\repos\mapa_de_clases\bin\Debug\net8.0\mapa_de_clases.exe
+C:\Users\Kent\source\repos\mapa_de_clases\bin\Debug\net8.0\mapa_de_clases.deps.json
+C:\Users\Kent\source\repos\mapa_de_clases\bin\Debug\net8.0\mapa_de_clases.runtimeconfig.json
+C:\Users\Kent\source\repos\mapa_de_clases\bin\Debug\net8.0\mapa_de_clases.dll
+C:\Users\Kent\source\repos\mapa_de_clases\bin\Debug\net8.0\mapa_de_clases.pdb
+C:\Users\Kent\source\repos\mapa_de_clases\obj\Debug\net8.0\mapa_de_clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kent\source\repos\mapa_de_clases\obj\Debug\net8.0\mapa_de_clases.AssemblyInfoInputs.cache
+C:\Users\Kent\source\repos\mapa_de_clases\obj\Debug\net8.0\mapa_de_clases.AssemblyInfo.cs
+C:\Users\Kent\source\repos\mapa_de_clases\obj\Debug\net8.0\mapa_de_clases.csproj.CoreCompileInputs.cache
+C:\Users\Kent\source\repos\mapa_de_clases\obj\Debug\net8.0\mapa_de_clases.dll
+C:\Users\Kent\source\repos\mapa_de_clases\obj\Debug\net8.0\refint\mapa_de_clases.dll
+C:\Users\Kent\source\repos\mapa_de_clases\obj\Debug\net8.0\mapa_de_clases.pdb
+C:\Users\Kent\source\repos\mapa_de_clases\obj\Debug\net8.0\mapa_de_clases.genruntimeconfig.cache
+C:\Users\Kent\source\repos\mapa_de_clases\obj\Debug\net8.0\ref\mapa_de_clases.dll
